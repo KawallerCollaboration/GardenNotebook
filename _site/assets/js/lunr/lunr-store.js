@@ -46,4 +46,10 @@ var store = [{
         "tags": ["Jekyll","Exercise"],
         "url": "http://localhost:4000/blog/First-Modification/",
         "teaser": null
+      },{
+        "title": "The Soil",
+        "excerpt":"Reference: A Soil Owner’s Manual - Jon Stika   Web References   Jon Stika’s on a permaculture website   Amazon link for his book  ","categories": ["blog","soil"],
+        "tags": ["soil","preparation"],
+        "url": "http://localhost:4000/blog/soil/Soil-Considerations/",
+        "teaser": null
       }]

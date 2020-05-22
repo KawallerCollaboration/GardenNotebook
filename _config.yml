@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Minimal Mistakes Example
+title: The Garden Notebook
 email: kawaller@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -61,8 +61,7 @@ plugins:
 author:
   name   : "Paul Kawaller"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "From Pintrest https://www.pinterest.com/pkawaller/
-See what Paul Kawaller (pkawaller) has discovered on Pinterest, the world's biggest collection of ideas. See what Paul Kawaller (pkawaller) has discovered on Pinterest, the world's biggest collection of ideas. Stay safe and healthy. Please practice hand-washing and social distancing, and check out our resources for adapting to these times."
+  bio    : "This site is a profile of gardening techniques applied to the landscape around my home."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
